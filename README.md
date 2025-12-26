@@ -48,7 +48,7 @@ Type ```evillimiter``` or ```python3 bin/evillimiter``` to run the tool.
 | ```-f``` | Flushes current iptables and tc configuration. Ensures that packets are dealt with correctly.|
 | ```--colorless``` | Disables colored output |
 
-#### ```evillimiter``` Commands
+#### ```evillimiter``` Commands (run as Root)
 
 | Command | Explanation |
 | ------- | ----------- |
